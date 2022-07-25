@@ -1,1 +1,13 @@
-/* Add application styles & imports to this file! */
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;700&display=swap');
+
+:root {
+  --escuro: #043086;
+  --medio: #0474fa;
+  --claro: #149cfc;
+  --light: #e9edf1;
+  --dark: #04060c;
+}
+
+body {
+  font-family: 'Syne', sans-serif;
+}
